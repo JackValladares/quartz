@@ -1,3 +1,29 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// "Prismatic" brand accents, independent of --secondary/--tertiary so they
+// stay stable even where --secondary is overridden (e.g. the sidebar below)
+:root {
+  --entropic: #880010;
+  --stratic: #3848c8;
+}
+
+:root[saved-theme="dark"] {
+  --entropic: #ff5a5a;
+  --stratic: #7b8cff;
+}
+
+// Sidebars use Stratic blue as their accent, while the body keeps the
+// Entropic red set as --secondary in quartz.config.yaml
+.sidebar {
+  --secondary: var(--stratic);
+}
+
+// Gradient site title (Entropic red -> Stratic blue)
+.page-title a {
+  background: linear-gradient(90deg, var(--entropic), var(--stratic));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
