@@ -33,3 +33,9 @@ These expressions are considered **Higher Order**, or **Composite** Prisma -  a
 ![[Surging]]
 
 ![[Disruptive]]
+
+These Higher-Order Expressions develop naturally in the world over aeons, and their corresponding environments represent an intricate homeostasis between the natural forces of the world – where a Cove of Mangroves, Wildfire-Enriched Forest, or Flourishing Coral Reef is each its own delicate and rare natural wonder.
+
+Higher-Order Expressions can also be the result of **Prismatic Whiplash**, representing an environment thrown into total disarray. If an Invasive Species were to force large populations of **Fabric** beasts into an **Entropic** region, the ecosystem and landscape might be thrown into disarray – causing unnatural cycles of proliferation and collapse. This **Cyclical** Prisma would arise from the perverse side of its underlying principle, representing a Purple as the _Tension_ between Red and Blue instead of its synergy.
+
+The most extreme example of this tends to result from the intervention of humans and other sentient beings – where an **Innovative** kingdom might realize that importing large amounts of laborers from a **Forceful** Region alongside huge vats of bright supercharges their production. Orange Prisma here could pollute the waterways and mutate local wildlife as towering smokestacks pump its residue into the region.
