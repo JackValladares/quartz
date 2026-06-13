@@ -55,4 +55,7 @@ Prismatic Wilds are dangerous, and proper traversal requires heavy preparation a
 
 
 ### Prismatic Expression Diagram
+This Diagram denotes the 
+
+
 ![[Expression Diagram.png]]
