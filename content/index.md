@@ -14,6 +14,7 @@ Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it 
 - [[Stratic]], imbued with **Iteration**
 
 <hr/>
+
 ## Where to Start
 
 - [[00-the-world|The World]] — an introduction to the setting
