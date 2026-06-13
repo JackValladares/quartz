@@ -1,6 +1,6 @@
 A Prisma's Expression is its most basic shape, color, and properties. Prisma's expression varies depending on the nature of the [[Prismatic Stain]] applied.
 
-### Expressive Properties
+## Expressive Properties
 
 **Prisma is defined first and foremost by its observable form**, known formally as its **Expression.**
 

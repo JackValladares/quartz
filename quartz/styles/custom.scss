@@ -20,10 +20,106 @@
   --secondary: var(--stratic);
 }
 
-// Gradient site title (Entropic red -> Stratic blue)
+// Site title in Entropic red
 .page-title a {
-  background: linear-gradient(90deg, var(--entropic), var(--stratic));
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
+  color: var(--entropic);
+}
+
+// Paper/parchment feel: subtle grain texture on the page background, and a
+// "card" look for the main content + sidebars so everything reads like
+// pages/panels laid out on a desk. Light mode gets a warm cream grain;
+// dark mode gets a faint warm grain too, for a bit more personality.
+body {
+  background-color: var(--light);
+  background-repeat: repeat;
+}
+
+:root:not([saved-theme="dark"]) body {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
+}
+
+:root[saved-theme="dark"] body {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' fill='%23fff' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+}
+
+// Page header (breadcrumbs + title) and the article body get their own
+// cards, with the sidebars - a stack of distinct "panels" on the desk
+.center > .page-header,
+.center > article,
+.sidebar.left,
+.sidebar.right {
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(43, 30, 10, 0.08);
+  box-sizing: border-box;
+}
+
+:root[saved-theme="dark"] {
+  .center > .page-header,
+  .center > article,
+  .sidebar.left,
+  .sidebar.right {
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+  }
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  & > .page-header {
+    margin-top: 0;
+    padding: 1rem 2rem;
+  }
+
+  & > article {
+    padding: 1.5rem 2rem;
+  }
+}
+
+// Transclusions: keep them visually quiet, especially when nested several
+// levels deep (each level would otherwise stack its own border + padding)
+.transclude {
+  margin: 0.5rem 0;
+  border-left: 1px solid var(--lightgray);
+  padding-left: 0.75rem;
+
+  // nested transcludes: don't compound the indentation/border
+  .transclude {
+    margin: 0.25rem 0;
+    border-left: none;
+    padding-left: 0;
+  }
+}
+
+// Swap heading sizes for transcluded section titles: a transcluded h2
+// (e.g. "Energy Given Expression") reads as the prominent title in Entropic
+// red, while a transcluded h1 (a full-page transclude's title, e.g.
+// "Morphic Prisma") reads as a secondary heading
+.transclude > h2:first-child {
+  font-size: 1.75rem;
+  color: var(--entropic);
+}
+
+.transclude > h1:first-child {
+  font-size: 1.4rem;
+}
+
+// "Link to original" - de-emphasize to a small, quiet footnote-style link
+a.transclude-src {
+  display: inline-block;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  line-height: inherit;
+  font-size: 0.75rem;
+  font-weight: $normalWeight;
+  opacity: 0.4;
+  transition: opacity 0.2s ease;
+
+  &:hover {
+    opacity: 0.8;
+  }
 }

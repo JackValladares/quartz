@@ -16,14 +16,14 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Libre Baskerville
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
+        light: "#f4ecd8"
+        lightgray: "#e6d9bd"
+        gray: "#bdab8c"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
         secondary: "#880010"
@@ -31,9 +31,9 @@ configuration:
         highlight: rgba(136, 0, 16, 0.08)
         textHighlight: "#ffcf4d66"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
+        light: "#191512"
+        lightgray: "#3a2f27"
+        gray: "#8a7867"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
         secondary: "#ff5a5a"

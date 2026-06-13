@@ -1,10 +1,11 @@
 ---
 title: Prisma
 ---
+"*To Exist in the Prismatic Realm is to exist in a World of Prima.*"
 
-*To Exist in the Prismatic Realm is to exist in a World of [[Prima]].*
-
-Welcome to the **Prisma** wiki — a home for the setting, rules, and reference material for the Prisma tabletop RPG.
+<div style="font-size: 32px; margin-bottom: 30px">
+Welcome to the Prisma Wiki! — a home for the setting, rules, and reference material for the Prisma tabletop RPG.
+</div>
 
 Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it touches until it takes on a nature of its own. Three core [[Prismatic Expression|Expressions]] arise from this process —
 
@@ -12,10 +13,12 @@ Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it 
 - [[Morphic Prisma]], imbued with **Flow**
 - [[Stratic Prisma]], imbued with **Iteration**
 
-## Where to start
+## Where to Start
 
 - [[00-the-world|The World]] — an introduction to the setting
-- [[Prisma|Prisma (Reference)]] — the core concept of Prisma and how it forms
+
+## Important References
+- [[Prisma]] — the core concept of Prisma and how it forms
 - [[Prismatic Expression]] — how Prisma's nature is categorized and expressed
 
 Use the search and graph view in the sidebar to explore connections between concepts as the wiki grows.
