@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<div style="
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    #ff0000 0deg,
+    #8d0072 60deg,
+    #0000ff 120deg,
+    #36a333 180deg,
+    #ffe500 240deg,
+    #ff8c00 300deg,
+    #ff0000 360deg
+  );
+">
+</div>
+</svg>
+
+
+
+
