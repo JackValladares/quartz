@@ -10,8 +10,8 @@
 }
 
 :root[saved-theme="dark"] {
-  --entropic: #ff5a5a;
-  --stratic: #7b8cff;
+  --entropic: #dc4242;
+  --stratic: #586aff;
 }
 
 // Sidebars use Stratic blue as their accent, while the body keeps the
@@ -109,7 +109,7 @@ body {
 
 // "Link to original" - de-emphasize to a small, quiet footnote-style link
 a.transclude-src {
-  display: inline-block;
+  display: none;
   background: none;
   padding: 0;
   border-radius: 0;
