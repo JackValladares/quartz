@@ -3,3 +3,6 @@
 
 
 ![[Prisma#Energy Given Expression]]
+
+
+![[Prismatic Expression#Composite Expression]]

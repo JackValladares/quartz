@@ -10,12 +10,26 @@ Environments rich with **Creation**, **Destruction**, and **Change** all impose 
 
 There are three core phenomena that each create distinct Expressions of Prisma.
 
-![[Morphic Prisma]]
+![[Morphic]]
 
 
 
-![[Stratic Prisma]]
+![[Stratic]]
 
 
 
-![[Entropic Prisma]]
+![[Entropic]]
+
+## Composite Expression
+
+Just as no Prisma is truly stained with a single color, so too can trace amounts of **Decay** and **Iteration** be found in even the most **Morphic** of seas; the yellow environment with its yellow Prisma simply indicates **Flow** as the dominant force – and thus, dominant Expression.
+
+Environments where two forces act in equal measure, however, produce something neither force creates alone - such as a seaside volcano representing simultaneous Decay and Flow. In such a region, whose Prisma has a roughly equivalent Red and Yellow Expression, the Prisma would take on a visible **Orange** color – representing **Force** as intersecting forces of Change and Destruction.
+
+These expressions are considered **Higher Order**, or **Composite** Prisma -  and are more uncommon than Lower-Order Expressions. These are as follows:
+
+![[Cyclical]]
+
+![[Surging]]
+
+![[Disruptive]]

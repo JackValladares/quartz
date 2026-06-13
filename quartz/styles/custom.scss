@@ -7,11 +7,19 @@
 :root {
   --entropic: #880010;
   --stratic: #3848c8;
+  --morphic: #d09000;
+  --disruptive: #076903;
+  --cyclical: #470186;
+  --surging: #8c4101;
 }
 
 :root[saved-theme="dark"] {
   --entropic: #dc4242;
   --stratic: #586aff;
+  --morphic: #ffb627;
+  --disruptive: #069f01;
+  --cyclical: #740bd5;
+  --surging: #d96604;
 }
 
 // Sidebars use Stratic blue as their accent, while the body keeps the
@@ -105,6 +113,75 @@ body {
 
 .transclude > h1:first-child {
   font-size: 1.4rem;
+}
+
+// Whole-page transcludes of Prismatic Expression banners (below) already
+// carry their own title, so hide the redundant auto-generated page title
+.transclude > h1:first-child:has(+ .prisma-header) {
+  display: none;
+}
+
+// Prismatic Expression banners: a rune icon + title, and a line of
+// associated keywords below. Each instance picks its color via a
+// .prisma-entropic / .prisma-morphic / .prisma-stratic class; text, image,
+// and keywords are tweaked directly in the markup
+.prisma-header {
+  margin: 2rem 0;
+
+  &.prisma-entropic {
+    --prisma-color: var(--entropic);
+  }
+
+  &.prisma-morphic {
+    --prisma-color: var(--morphic);
+  }
+
+  &.prisma-stratic {
+    --prisma-color: var(--stratic);
+  }
+
+  &.prisma-disruptive {
+    --prisma-color: var(--disruptive);
+  }
+
+    &.prisma-cyclical {
+        --prisma-color: var(--cyclical);
+    }
+
+    &.prisma-surging {
+            --prisma-color: var(--surging);
+        }
+}
+
+.prisma-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+
+  img {
+    width: 4rem;
+    height: 4rem;
+    margin: 0;
+  }
+}
+
+.prisma-banner-title {
+  font-family: var(--headerFont);
+  font-size: 1.75rem;
+  font-weight: $boldWeight;
+  color: var(--prisma-color);
+}
+
+.prisma-banner-tags {
+  margin-top: 0.25rem;
+  font-family: var(--headerFont);
+  text-align: center;
+  color: var(--prisma-color);
+
+  strong {
+    font-weight: $boldWeight;
+  }
 }
 
 // "Link to original" - de-emphasize to a small, quiet footnote-style link

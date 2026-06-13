@@ -100,6 +100,11 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      header: Libre Baskerville
+      body: Source Sans Pro
+      code: IBM Plex Mono
+      fontOrigin: googleFonts
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish

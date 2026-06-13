@@ -95,6 +95,14 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        {/* Default new visitors to light mode (matches the parchment theme)
+            instead of following prefers-color-scheme. Once a visitor toggles
+            the theme, their choice is remembered as usual. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `if (localStorage.getItem("theme") === null) { localStorage.setItem("theme", "light") }`,
+          }}
+        />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")

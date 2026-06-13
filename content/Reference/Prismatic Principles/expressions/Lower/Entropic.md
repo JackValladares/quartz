@@ -1,5 +1,15 @@
-![[Entropic Rune.png]]
-<br/>Entropic Prisma is imbued with **Decay**. It represents destruction, endings, and inevitability - found primarily in harsh environments such as deserts, badlands, and tundras.
+<div class="prisma-header prisma-entropic">
+  <div class="prisma-banner">
+    <img src="/images/entropic-rune.png" alt="Entropic Rune" class="prisma-banner-icon"/>
+    <span class="prisma-banner-title">Entropic Prisma</span>
+  </div>
+  <div class="prisma-banner-tags">
+    <strong>Decay</strong>, Destruction, Endings,<br/>
+    Deserts, Magma, Inevitability
+  </div>
+</div>
+
+Entropic Prisma is imbued with **Decay**. It represents destruction, endings, and inevitability - found primarily in harsh environments such as deserts, badlands, and tundras.
 
 
 ### Decay
