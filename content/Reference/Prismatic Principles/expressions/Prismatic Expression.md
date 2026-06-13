@@ -55,7 +55,8 @@ Prismatic Wilds are dangerous, and proper traversal requires heavy preparation a
 
 
 ### Prismatic Expression Diagram
-This Diagram denotes the 
+This diagram is a common one across the Prismatic Realm, and denotes the relationships between Higher and Lower Order Prismatic Expressions at a glance.
+
 
 
 ![[Expression Diagram.png]]

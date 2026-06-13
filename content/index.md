@@ -13,12 +13,16 @@ Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it 
 - [[Morphic]], imbued with **Flow**
 - [[Stratic]], imbued with **Iteration**
 
+<hr/>
 ## Where to Start
 
 - [[00-the-world|The World]] — an introduction to the setting
 
-## Important References
+
+## Key Terminology
 - [[Prisma]] — the core concept of Prisma and how it forms
 - [[Prismatic Expression]] — how Prisma's nature is categorized and expressed
 
-Use the search and graph view in the sidebar to explore connections between concepts as the wiki grows.
+## Notable Diagrams
+
+![[Expression Diagram.png]]Use the search and graph view in the sidebar to explore connections between concepts as the wiki grows.
