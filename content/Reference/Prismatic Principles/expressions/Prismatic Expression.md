@@ -52,3 +52,7 @@ The most iconic example of such a place is known as a **Verdant Maze** – an en
 Environments such as Verdant Maze Regions are broadly known as **Prismatic Wilds**, and in contrast to Lower-Order environments, which are largely defined by civilization and mundane geology and ecosystems, are largely unsettled and dominated by Flora, Fauna, and the Whims of Prisma itself.
 
 Prismatic Wilds are dangerous, and proper traversal requires heavy preparation and skill – and even then, there is no guarantee of a safe voyage.
+
+
+### Prismatic Expression Diagram
+![[Expression Diagram.png]]
