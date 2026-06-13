@@ -1,6 +1,6 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "npx quartz build",
+  "buildCommand": "npm run install-plugins && npx quartz build",
   "outputDirectory": "public"
 }
