@@ -184,6 +184,36 @@ body {
   }
 }
 
+// Thematic divider: a soft gradient through the core Prismatic accents with
+// a small gem-like marker at center, instead of the near-invisible default
+// browser rule
+hr {
+  position: relative;
+  margin: 2.5rem 0;
+  height: 1px;
+  border: none;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--entropic) 15%,
+    var(--morphic) 50%,
+    var(--stratic) 85%,
+    transparent
+  );
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0.5rem;
+    height: 0.5rem;
+    background: var(--morphic);
+    border: 1px solid var(--light);
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+}
+
 // "Link to original" - de-emphasize to a small, quiet footnote-style link
 a.transclude-src {
   display: none;
