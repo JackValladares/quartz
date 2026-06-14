@@ -1,6 +1,7 @@
 <div style="width: 100%; display: flex; justify-content: center;">
 	<img src="images/Environments/morphic.png" width="300" />
 </div>
+
 Morphic Biomes are environments where **Flow** is the dominant natural force - resulting in the large majority of the region's Prisma being [[Morphic]] in nature.
 
 ### Commonly Morphic Biomes

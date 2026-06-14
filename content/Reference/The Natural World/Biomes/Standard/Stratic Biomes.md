@@ -1,6 +1,7 @@
 <div style="width: 100%; display: flex; justify-content: center;">
 	<img src="images/Environments/stratic.png" width="300" />
 </div>
+
 Stratic Biomes are environments where **Iteration** is the dominant natural force - resulting in the large majority of the region's Prisma being [[Stratic]] in nature.
 
 ### Commonly Stratic Biomes
