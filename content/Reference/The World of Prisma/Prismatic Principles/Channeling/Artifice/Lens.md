@@ -9,7 +9,7 @@ That is to say - process is never perfectly efficient: Prima serves as both the 
 
 
 ## The Body as a Lens
-The color of one's own Prisma follows the same principles of Expression as any other [[Morphic]], [[Stratic]], or [[Reference/Prismatic Principles/Expressions/Lower/Entropic]] Prisma - mirroring one's dynamic, creative, and destructive tendencies. 
+The color of one's own Prisma follows the same principles of Expression as any other [[Morphic]], [[Stratic]], or [[Entropic]] Prisma - mirroring one's dynamic, creative, and destructive tendencies. 
 
 A simple insect whose primary purpose is the decomposition of organic matter would likely contain straightforward, simple *Red* Prisma mirroring the decay of their basic life's purpose - with trace amounts of Yellow and Blue as needed. In most bestiaries and day-to-day conversation, such a creature would simply be called a *Red Creature* or an *Entropic Creature*.
 

@@ -12,7 +12,7 @@ The World's most fundamental and timeless processes - those of *Change*, *Creati
 ![[Stratic]]
 
 
-![[Reference/Prismatic Principles/Expressions/Lower/Entropic]]
+![[Entropic]]
 
 ## Higher-Order Expression
 
@@ -22,7 +22,7 @@ Environments where *two forces* act in roughly equal measure, however, produce s
 
 Where Lower Order Expressions reflect a single dominant force, these blended Expressions occupy a higher tier of complexity — rarer in nature, and richer in potential. They are known as **Higher Order**, or Composite Expressions, and are as follows:
 
-![[Reference/Prismatic Principles/Expressions/Higher/Cyclical]]
+![[Cyclical]]
 
 ![[Surging]]
 
