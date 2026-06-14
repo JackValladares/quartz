@@ -26,4 +26,10 @@ Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it 
 
 ## Notable Diagrams
 
-![[Expression Diagram.png]]Use the search and graph view in the sidebar to explore connections between concepts as the wiki grows.
+![[Expression Diagram.png]]
+
+### Want to get involved?!
+<a href="https://discord.gg/XG2b4kHWBJ" target="_blank">Join the Prisma Discord</a> to contribute to the direction of the game, find likeminded players, and view early content before it lands on the Wiki!
+
+
+Use the search and graph view in the sidebar to explore connections between concepts as the wiki grows.
