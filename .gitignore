@@ -10,3 +10,9 @@ private/
 .replit
 replit.nix
 quartz/cli/tui/dist/
+
+*.docx
+*.doc
+*.xlsx
+*.pptx
+legacy/
