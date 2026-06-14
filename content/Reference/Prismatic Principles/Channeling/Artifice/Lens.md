@@ -6,3 +6,11 @@ The most common manmade Lenses are those refined from [[Animite#Lower Order Anim
 Beyond the soul itself, Lenses represent the most widely used method of staining Prisma in a controlled manner - and their efficiency reflects a principle fundamental to [[Prismatic Channeling#Prismatic Conversion|Prismatic Conversion]] itself. 
 
 That is to say - process is never perfectly efficient: Prima serves as both the raw material and the energy source of conversion, producing small discharges of Red and Yellow Expression even when staining toward Blue, yielding what is known as the 3:2:1 Ratio - 3 units of Prima produce 2 units of [[Lower Order Expressions|Lower Order Prisma]], and 2 units of Prisma convert into 1 unit of a different Expression. Basic Lenses operate precisely at this ideal, which is widely believed to be one of the reasons Lower Order Domains are considered fundamental in the first place.
+
+
+## The Body as a Lens
+The color of one's own Prisma follows the same principles of Expression as any other [[Morphic]], [[Stratic]], or [[Entropic]] Prisma - mirroring one's dynamic, creative, and destructive tendencies. 
+
+A simple insect whose primary purpose is the decomposition of organic matter would likely contain straightforward, simple *Red* Prisma mirroring the decay of their basic life's purpose - with trace amounts of Yellow and Blue as needed. In most bestiaries and day-to-day conversation, such a creature would simply be called a *Red Creature* or an *Entropic Creature*.
+
+Inversely, a sentient human with a diverse, complex, and often contradictory nature - just as capable of birthing new life as slashing down an opponent on the battlefield - would likely demonstrate a similarly complex blend of Prisma...a gradient of Red, Blue, and Yellow across their very essence, evolving over the course of a long life.

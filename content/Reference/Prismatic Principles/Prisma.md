@@ -1,34 +1,27 @@
-**Prima given form is called Prisma**. The word itself is a useful shorthand for this concept – where a type of Prisma represents Prima of a particular nature.
-
-## Energy Given Expression
-Prisma's nature is obtained through a process called a [[Prismatic Stain]]. *Prima is Stained into Prisma upon every interaction it makes with the world, no matter how seemingly insignificant*.
+**[[Prima]] given form is called Prisma**. The word itself is a useful shorthand for this concept – where a type of Prisma represents Prima of a particular nature.
 
 
-	A volcanic shelf saturates the Prima above it with heat and force.
+Prisma's nature is obtained through a process called a [[Prismatic Stain]]. 
 
-	A glacial basin imposes its patience and weight.
-
-	A coastal storm charges the air with restless, shifting energy. 
-
-**Prima absorbs all of it indifferently, taking on the character of whatever surrounds it.** Thus, Prisma's fundamental properties - its color, shape, and feel - directly reflects the nature of its accumulated Stain.
-
-At a microscopic level, all Prisma has its own individual history in the world, and exists as a reflection of that history. Because of this fact, no two samples of Prisma are identical - and even two that are ostensibly identical and harvested from the same exact environment will differ upon microscopic scrutiny.
-
-In practice, however, only the broader differences truly matter. Given two samples of **Yellow** Prisma, one might *technically* have a more vibrant hue than another - which in turn might crackle with *slightly* more energy. But just as river and lake water both look and behave like *water*, both samples of Prisma would have a Stain similar enough to look and behave like *Yellow Prisma*.
+![[Prismatic Stain#Energy Given Form]]
 
 These recognized categories — the broad strokes by which Prisma is understood and identified — are known as [[Prismatic Expression]].
 
-![[Prismatic Expression#Expressive Properties]]
+![[Prismatic Expression#What is Prismatic Expression?]]
 
+Prismatic Expressions are divided into into the following categories:
+
+[[Prismatic Expression#Lower-Order Expression|Lower Order]] Expressions - [[Morphic]], [[Stratic]], and [[Entropic]] Prisma - considered more basic, representing the world's most fundamental forces.
+
+[[Prismatic Expression#Higher-Order Expression|Higher Order]] Expressions - [[Cyclical]], [[Surging]], and [[Disruptive]] Prisma - considered more complex, representing the overlap of these forces.
 
 ## Living Beings as Prismatic Beings
 Just as the world itself is filled with Prisma - its various regions marked by a dominant [[Prismatic Expression]] - so too do all living beings contain Prisma as a fundamental aspect of being alive, with their own unique blend of Prismatic Expression. 
-
 
 A creature's soul - which some consider arcane and metaphysical, others a simple network of material internal organs - is, in fact, one of the most potent ways of intentionally Staining Prisma - or [[Lens|Lenses]] - known to the world. Thus, a creature exhibiting *Entropic* tendencies in a deeply *Morphic* environment will demonstrate deeply *Red* Prisma mirroring their own intent that stands out from the surrounding environment.
 
 The body as a broader entity, likewise, acts an extremely efficient Prisma Storage Vessel and Conduit - passively consuming Prisma during periods of rest and consumption, and directing Prisma of the proper color to support efforts of the body and mind. In the Prismatic realms, this process is as fundamental to life as breathing air or eating food, and even a warrior who considers themselves wholly mundane and martial uses Prisma to swing their axe and raise their shield.
 
+![[Lens#The Body as a Lens]]
 
-The color of one's Prisma follows the same principles of Expression as any other [[Morphic]], [[Stratic]], or [[Entropic]] Prisma - mirroring one's dynamic, creative, and destructive tendencies. A simple insect whose primary purpose is the decomposition of organic matter would likely contain straightforward, simple Red Prisma mirroring these tendencies. Inversely, a sentient human with a diverse and often contradictory nature - just as capable of birthing new life as slashing an opponent on the battlefield - would likely demonstrate a similarly complex blend of Prisma...a gradient of Red, Blue, and Yellow across their very essence, evolving over the course of a long life.
 

@@ -10,7 +10,7 @@ The term is a very broad umbrella that covers a wide range of applications such 
 ## What is Channeling?
 **If Prisma is moved, manipulated, imbued, or spent – it is being _channeled_.**
 
-Because the bodies and souls of living beings are imbued with Prisma, **Prisma can be channeled using the self as a focus**. One’s own Prisma can be Stained and molded by their intent and then imbued into their body or evoked into the world in the form of powerful spells and abilities.
+Because the bodies and souls of [[Prisma#Living Beings as Prismatic Beings|Living Beings]] are imbued with Prisma, **Prisma can be channeled using the self as a focus**. One’s own Prisma can be Stained and molded by their intent and then imbued into their body or evoked into the world in the form of powerful [[Prismatic Spells|Spells]] and Abilities.
 
 Deeper understanding of oneself and one’s own Prisma makes the process more efficient and potent, where more advanced Channelers are able to shape their Prisma in increasingly complex and sophisticated ways; twisting their Prisma output to just the right color and nature for specific use-cases. Novice-level channelers, in contrast, waste large amounts of Prisma attempting to do the same.
 

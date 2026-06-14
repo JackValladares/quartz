@@ -5,6 +5,7 @@
 
 ![[Prima#A World of Prima]]
 
+Prisma's nature is obtained through a process called a [[Prismatic Stain]].
 
 ![[Prisma#Energy Given Expression]]
 
