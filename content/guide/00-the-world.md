@@ -10,3 +10,5 @@
 
 
 ![[Prismatic Expression#Composite Expression]]
+
+![[Prisma#Living Beings as Prismatic Beings]]
