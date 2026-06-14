@@ -19,11 +19,11 @@ The World's most fundamental and timeless processes - those of *Change*, *Creati
 
 ## Composite Expression
 
-Just as no Prisma is truly stained with a single color, so too can trace amounts of **Decay** and **Iteration** be found in even the most **Morphic** of seas; the yellow environment with its yellow Prisma simply indicates **Flow** as the dominant force – and thus, dominant Expression.
+Just as no Prisma is truly stained with a single color, so too can trace amounts of Decay and Iteration be found in even the most Morphic of seas; the yellow environment with its yellow Prisma simply indicates **Flow** as the dominant force – and thus, dominant Expression.
 
-Environments where two forces act in equal measure, however, produce something neither force creates alone - such as a seaside volcano representing simultaneous Decay and Flow. In such a region, whose Prisma has a roughly equivalent Red and Yellow Expression, the Prisma would take on a visible **Orange** color – representing **Force** as intersecting forces of Change and Destruction.
+Environments where *two forces* act in roughly equal measure, however, produce something neither force creates alone - such as a seaside volcano representing *simultaneous* Decay and Flow. In such a region, whose Prisma has a roughly equivalent Red and Yellow Expression, the Prisma would take on a visible Orange color – representing **Fervor** as *intersecting forces of Change and Destruction.*
 
-These expressions are considered **Higher Order**, or **Composite** Prisma -  and are more uncommon than Lower-Order Expressions. These are as follows:
+Where Lower Order Expressions reflect a single dominant force, these blended Expressions occupy a higher tier of complexity — rarer in nature, and richer in potential. They are known as **Higher Order**, or Composite Expressions, and are as follows:
 
 ![[Cyclical]]
 
