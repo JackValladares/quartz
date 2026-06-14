@@ -20,3 +20,10 @@ These recognized categories — the broad strokes by which Prisma is understood 
 
 ![[Prismatic Expression#Expressive Properties]]
 
+
+## Living Beings as Prismatic Beings
+Just as the world itself is filled with Prisma - its various regions marked by a dominant [[Prismatic Expression]] - so too do all living beings contain Prisma as a fundamental aspect of being alive, with their own unique blend of Prismatic Expression 
+
+Whether this is due to a metaphysical soul or a simple network of internal organs, living beings all contain a wellspring of Prisma concentrated in their very core - expending it to perform actions, and recovering it during periods of rest. 
+
+The color of one's Prisma follows the same principles of Expression as any other [[Morphic]], [[Stratic]], or [[Entropic]] Prisma - mirroring one's dynamic, creative, and destructive tendencies. A simple insect whose primary purpose is the decomposition of organic matter would likely contain straightforward, simple Red Prisma mirroring these tendencies. Inversely, a sentient human with a diverse and often contradictory nature - just as capable of birthing new life as slashing an opponent on the battlefield - would likely demonstrate a similarly complex blend of Prisma...a gradient of Red, Blue, and Yellow across their very essence, evolving over the course of a long life.
