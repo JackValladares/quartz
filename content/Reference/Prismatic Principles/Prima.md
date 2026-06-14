@@ -1,4 +1,7 @@
-![[Prima.png]]
+<div style="width: 100%; display: flex; justify-content: center;">
+	<img src="images/prima.png" width="300" />
+</div>
+
 Energy in its most raw form. Devoid of any [[Prismatic Stain]], Prima is cosmic in nature and considered impossible to find terrestrially in its most platonic, pure form.
 
 *“The stars are deeply obscured behind a dense wall of clouds in the sky. Despite this, the atmosphere glows with the primal light of creation – twinkling a million different colors above the adventurers’ heads.”* 

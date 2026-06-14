@@ -1,6 +1,4 @@
-<div>
 
-</div>
 <div style="width: 100%; display: flex; justify-content: center;">
 	<img src="images/world-placeholder.png" width="300" />
 </div>
