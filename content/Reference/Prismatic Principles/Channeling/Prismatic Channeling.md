@@ -18,3 +18,6 @@ Those who choose to immerse themselves in lifelong pursuit of Prismatic Understa
 Therefore, **every channeler belongs to some kind of Archetype describing their general skillset.**
 
 The first, most fundamental step to becoming a Channeler is figuring out the nature of one’s own Body and Soul. That is – their own Prismatic makeup, as unique as fingerprints upon one’s own fingers. Understanding your Prisma allows you to understand your strengths and weaknesses as a Channeler.
+
+
+## Prismatic Conversion

@@ -22,8 +22,13 @@ These recognized categories — the broad strokes by which Prisma is understood 
 
 
 ## Living Beings as Prismatic Beings
-Just as the world itself is filled with Prisma - its various regions marked by a dominant [[Prismatic Expression]] - so too do all living beings contain Prisma as a fundamental aspect of being alive, with their own unique blend of Prismatic Expression 
+Just as the world itself is filled with Prisma - its various regions marked by a dominant [[Prismatic Expression]] - so too do all living beings contain Prisma as a fundamental aspect of being alive, with their own unique blend of Prismatic Expression. 
 
-Whether this is due to a metaphysical soul or a simple network of internal organs, living beings all contain a wellspring of Prisma concentrated in their very core - expending it to perform actions, and recovering it during periods of rest. 
+
+A creature's soul - which some consider arcane and metaphysical, others a simple network of material internal organs - is, in fact, one of the most potent ways of intentionally Staining Prisma - or [[Lens|Lenses]] - known to the world. Thus, a creature exhibiting *Entropic* tendencies in a deeply *Morphic* environment will demonstrate deeply *Red* Prisma mirroring their own intent that stands out from the surrounding environment.
+
+The body as a broader entity, likewise, acts an extremely efficient Prisma Storage Vessel and Conduit - passively consuming Prisma during periods of rest and consumption, and directing Prisma of the proper color to support efforts of the body and mind. In the Prismatic realms, this process is as fundamental to life as breathing air or eating food, and even a warrior who considers themselves wholly mundane and martial uses Prisma to swing their axe and raise their shield.
+
 
 The color of one's Prisma follows the same principles of Expression as any other [[Morphic]], [[Stratic]], or [[Entropic]] Prisma - mirroring one's dynamic, creative, and destructive tendencies. A simple insect whose primary purpose is the decomposition of organic matter would likely contain straightforward, simple Red Prisma mirroring these tendencies. Inversely, a sentient human with a diverse and often contradictory nature - just as capable of birthing new life as slashing an opponent on the battlefield - would likely demonstrate a similarly complex blend of Prisma...a gradient of Red, Blue, and Yellow across their very essence, evolving over the course of a long life.
+
