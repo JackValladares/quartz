@@ -1,3 +1,8 @@
+<div style="width: 100%; display: flex; justify-content: center;">
+	<img src="images/channeling-graphic.png" width="300" />
+</div>
+
+
 The art of using and manipulating Prisma – both external and from within – is known as **Channeling**.
 
 The term is a very broad umbrella that covers a wide range of applications such as spellcasting, artifice, alchemy, capture, storage, and even meditation.
