@@ -4,7 +4,7 @@ A category of ores that act as potent natural [[Lens|Lenses]]  in their environm
 
 ### Lower Order Animite
 
-The most abundant and well-documented Animite are those stained by the World's three fundamental forces. **Loamstone**, **Cinderstone**, and **Tidestone** - each a product of [[Stratic|Creation]], [[Entropic|Destruction]], and [[Morphic|Change]] respectively - are found wherever their corresponding force holds dominance, and are collectively considered the foundation of practical Prismatic craft. Their prevalence, combined with the reliability of their staining properties, is widely believed to be one of the reasons Lower Order Expressions are considered fundamental in the first place.
+The most abundant and well-documented Animite are those stained by the World's three fundamental forces. **Loamstone**, **Cinderstone**, and **Tidestone** - each a product of [[Stratic|Creation]], [[Reference/Prismatic Principles/Expressions/Lower/Entropic|Destruction]], and [[Morphic|Change]] respectively - are found wherever their corresponding force holds dominance, and are collectively considered the foundation of practical Prismatic craft. Their prevalence, combined with the reliability of their staining properties, is widely believed to be one of the reasons Lower Order Expressions are considered fundamental in the first place.
 
 #### Loamstone
 

@@ -10,9 +10,9 @@ The different recognized categories of Prisma are known as [[Prismatic Expressio
 
 Prismatic Expressions are divided into into the following categories:
 
-[[Prismatic Expression#Lower-Order Expression|Lower Order]] Expressions - [[Morphic]], [[Stratic]], and [[Entropic]] Prisma - considered more basic, representing the world's most fundamental forces.
+[[Prismatic Expression#Lower-Order Expression|Lower Order]] Expressions - [[Morphic]], [[Stratic]], and [[Reference/Prismatic Principles/Expressions/Lower/Entropic]] Prisma - considered more basic, representing the world's most fundamental forces.
 
-[[Prismatic Expression#Higher-Order Expression|Higher Order]] Expressions - [[Cyclical]], [[Surging]], and [[Disruptive]] Prisma - considered more complex, representing the overlap of these forces.
+[[Prismatic Expression#Higher-Order Expression|Higher Order]] Expressions - [[Reference/Prismatic Principles/Expressions/Higher/Cyclical]], [[Surging]], and [[Disruptive]] Prisma - considered more complex, representing the overlap of these forces.
 
 ## Living Beings as Prismatic Beings
 Just as the world itself is filled with Prisma - its various regions marked by a dominant [[Prismatic Expression]] - so too do all living beings contain Prisma as a fundamental aspect of being alive, with their own unique blend of Prismatic Expression. 

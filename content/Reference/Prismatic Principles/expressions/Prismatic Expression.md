@@ -12,7 +12,7 @@ The World's most fundamental and timeless processes - those of *Change*, *Creati
 ![[Stratic]]
 
 
-![[Entropic]]
+![[Reference/Prismatic Principles/Expressions/Lower/Entropic]]
 
 ## Higher-Order Expression
 
@@ -22,7 +22,7 @@ Environments where *two forces* act in roughly equal measure, however, produce s
 
 Where Lower Order Expressions reflect a single dominant force, these blended Expressions occupy a higher tier of complexity — rarer in nature, and richer in potential. They are known as **Higher Order**, or Composite Expressions, and are as follows:
 
-![[Cyclical]]
+![[Reference/Prismatic Principles/Expressions/Higher/Cyclical]]
 
 ![[Surging]]
 
@@ -41,7 +41,7 @@ Though most Higher-Order environments exist along the borders of Lower-Order Exp
 
 In such a case, a **Disruptive** **Jungle** might evolve from a simple **Blue**/**Yellow** Overlap – the simple intersection of Flow and Creation – into an environment that embodies **Foment** run Rampant.
 
-The most iconic example of such a place is known as a **Verdant Maze** – an environment of endless proliferation, deeply removed from an **Entropy** to temper its growth. Verdant Maze regions grow beyond the boundaries of space itself – where its landscape becomes non-Euclidian in nature, where maps are worthless and distance itself is meaningless in concept. The Green creatures here evolve rapidly, with biology that seems arcane in nature.
+The most iconic example of such a place is known as a **[[Verdant Maze]]** – an environment of endless proliferation, deeply removed from an **Entropy** to temper its growth. Verdant Maze regions grow beyond the boundaries of space itself – where its landscape becomes non-Euclidian in nature, where maps are worthless and distance itself is meaningless in concept. The Green creatures here evolve rapidly, with biology that seems arcane in nature.
 
 Environments such as Verdant Maze Regions are broadly known as **Prismatic Wilds**, and in contrast to Lower-Order environments, which are largely defined by civilization and mundane geology and ecosystems, are largely unsettled and dominated by Flora, Fauna, and the Whims of Prisma itself.
 
