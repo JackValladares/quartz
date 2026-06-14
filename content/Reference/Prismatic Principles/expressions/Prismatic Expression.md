@@ -2,13 +2,10 @@ A Prisma's Expression is its most basic shape, color, and properties. Prisma's e
 
 ## Expressive Properties
 
-**Prisma is defined first and foremost by its observable form**, known formally as its **Expression.**
+**Prismatic Expression serves to differentiate Prisma into categories based on color, shape, and physical properties.** Not all Expressions are equal in scope or origin, however — they are organized into *orders* that reflect the magnitude of the force that shaped them.
 
-More precisely, the Expression by which Prisma is categorized encompasses its visible color and physical properties as a direct reflection of the environment by which it was Stained. 
+The World's most fundamental and timeless processes - those of *Change*, *Creation*, and *Destruction* - all serve to Stain Prisma with an Expression that is similarly distinct and fundamental, known as a **Lower Order** Expression. These Lower Order Expressions each have use-cases and properties that directly mirror the corresponding force that stained them, and are as follows:
 
-Environments rich with **Creation**, **Destruction**, and **Change** all impose a particular type of Expression on the nearby Prisma - and in turn, the Prisma itself acts as a catalyst and visual representation of these very processes.
-
-There are three core phenomena that each create distinct Expressions of Prisma.
 
 ![[Morphic]]
 
