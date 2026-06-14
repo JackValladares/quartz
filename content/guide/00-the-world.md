@@ -7,9 +7,15 @@
 
 Prisma's nature is obtained through a process called a [[Prismatic Stain]].
 
-![[Prisma#Energy Given Expression]]
+![[Prismatic Stain#Energy Given Form]]
+
+These recognized categories — the broad strokes by which Prisma is understood and identified — are known as [[Prismatic Expression]].
+
+![[Prismatic Expression#What is Prismatic Expression?]]
+
+![[Prismatic Expression#Lower-Order Expression]]
 
 
-![[Prismatic Expression#Composite Expression]]
+![[Prismatic Expression#Higher-Order Expression]]
 
 ![[Prisma#Living Beings as Prismatic Beings]]

@@ -1,11 +1,10 @@
 **[[Prima]] given form is called Prisma**. The word itself is a useful shorthand for this concept – where a type of Prisma represents Prima of a particular nature.
 
-
 Prisma's nature is obtained through a process called a [[Prismatic Stain]]. 
 
 ![[Prismatic Stain#Energy Given Form]]
 
-These recognized categories — the broad strokes by which Prisma is understood and identified — are known as [[Prismatic Expression]].
+The different recognized categories of Prisma are known as [[Prismatic Expression]].
 
 ![[Prismatic Expression#What is Prismatic Expression?]]
 
