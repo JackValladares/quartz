@@ -8,16 +8,17 @@ Morphic Biomes are environments where **Flow** is the dominant natural force - r
 Morphic Biomes are largely considered to be *dynamic* and *aquatic* natural environments, where the weather, geography, flora, and fauna are malleable and follow ongoing currents of change.
 
 
-**The commonly cited regions are as follows:**
-Oceans
-Coastlines
-Rivers
-Restless Lakes
+**The commonly cited regions are as follows:** <br/>
+Oceans <br/>
+Coastlines <br/>
+Rivers <br/>
+Restless Lakes <br/>
 
-**The weather patterns and phenomena can also be a large insight as to the Morphic nature of a particular region, these being:**
-Thunderstorms
-Heavy Wind
-Moving Water
+**The weather patterns and phenomena can also be a large insight as to the Morphic nature of a particular region, these being:** <br/>
+Thunderstorms <br/>
+Heavy Wind <br/>
+Moving Water <br/>
+Heavy Deposits of [[Animite#Tidestone|Tidestone]] <br/>
 
 
-Morphic Biomes - much like the signature Morphic Prisma - serve to flow around anything that enters them, often sweeping travelers into their ongoing currents and flow.
+Morphic Biomes - much like the signature Morphic Prisma - serve to flow around anything that enters them, often sweeping travelers into their ongoing currents and flow. 
