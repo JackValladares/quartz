@@ -17,7 +17,9 @@ Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it 
 
 ## Where to Start
 
-- [[00-the-world|The World]] — an introduction to the setting
+- [[00-the-world|The World]] - An introduction to the setting
+- [[01-prismatic-society|Prismatic Society]] - How Culture and Societies Exist in the Prismatic Realms 
+- [[02-your-character|Your character]] - Understanding and Building your Character
 
 
 ## Key Terminology
