@@ -1,3 +1,16 @@
+---
+Color: Red
+Biomes:
+  - Badlands
+  - Deserts
+  - Tundras
+  - Swamps
+Climate:
+  - Wildfires
+  - Poisons
+  - Extreme Acids and Bases
+  - Heavy Deposits of Cinderstone
+---
 <div class="prisma-header prisma-entropic">
   <div class="prisma-banner">
     <img src="/images/entropic-rune.png" alt="Entropic Rune" class="prisma-banner-icon"/>

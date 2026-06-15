@@ -1,16 +1,15 @@
 ---
-Expression: Stratic
 Color: Blue
-Biomes: |2-
-   - Forests
-    - Plains
-    - Mountains
-    - Glaciers
-Climate: |2-
-    - Temperate
-    - Still
-    - Ongoing deposits of Earth and Stone
-    - Heavy deposits of Loamstone
+Biomes:
+  - Forests
+  - Mountains
+  - Plains
+  - Glaciers
+Climate:
+  - Temperate
+  - Still
+  - Ongoing Layering of Earth and Stone
+  - Heavy Deposits of Loamstone
 ---
 
 <div class="prisma-header prisma-stratic">

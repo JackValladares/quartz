@@ -1,3 +1,16 @@
+---
+Color: Yellow
+Biomes:
+  - Oceans
+  - Rivers
+  - Coastlines
+  - Restless Lakes
+Climate:
+  - Thunderstorms
+  - Heavy Wind
+  - Moving Water
+  - Heavy Deposits of Tidestone
+---
 <div class="prisma-header prisma-morphic">
   <div class="prisma-banner">
     <img src="/images/morphic-rune.png" alt="Morphic Rune" class="prisma-banner-icon"/>
