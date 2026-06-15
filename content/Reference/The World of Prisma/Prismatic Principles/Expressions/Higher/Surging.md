@@ -8,8 +8,8 @@
   </div>
 </div>
 
-
 ### Fervor
+
 Prisma with an Expression representing equal parts **Decay** and **Flow** is known as **Surging** **Prisma**, embodying **Fervor** as powerful destructive force moving along natural currents of momentum.
 
 **Surging Regions** are where the world's most kinetic forces collide and consume. This might be in the form of an oceanic volcano or mangrove forest whose unique and wonderous ecosystem lies at the intersection of oceanic currents and swampy decay. The largest Surging Regions are the Elemental Seas - vast stretches of ocean where current and consumption act as one, navigable to those with the strength and nerve for it, and the most dangerous trade routes in the known world.

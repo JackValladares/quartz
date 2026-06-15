@@ -1,4 +1,3 @@
-
 ## Basic Prismatic Expression Diagram
 
-![[Expression Diagram.png]]
+![[Images/Expression Diagram.png]]

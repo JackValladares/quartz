@@ -1,4 +1,3 @@
-
 <div style="width: 100%; display: flex; justify-content: center;">
 	<img src="images/world-placeholder.png" width="300" />
 </div>
@@ -14,7 +13,6 @@ These recognized categories — the broad strokes by which Prisma is understood 
 ![[Prismatic Expression#What is Prismatic Expression?]]
 
 ![[Prismatic Expression#Lower-Order Expression]]
-
 
 ![[Prismatic Expression#Higher-Order Expression]]
 

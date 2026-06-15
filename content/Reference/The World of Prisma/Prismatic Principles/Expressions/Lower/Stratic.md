@@ -1,15 +1,7 @@
 ---
-Color: Blue
-Biomes:
-  - Forests
-  - Mountains
-  - Plains
-  - Glaciers
-Climate:
-  - Temperate
-  - Still
-  - Ongoing Layering of Earth and Stone
-  - Heavy Deposits of Loamstone
+publish: true
+created: 2026-06-15T15:13:28.848-04:00
+modified: 2026-06-15T15:17:18.279-04:00
 ---
 
 <div class="prisma-header prisma-stratic">
@@ -23,11 +15,12 @@ Climate:
   </div>
 </div>
 
-Stratic Prisma is imbued with **Iteration**. It represents creation, beginnings, and patience - found primarily in layered, cumulative environments such as Forests, Mountains, and Fields 
+Stratic Prisma is imbued with **Iteration**. It represents creation, beginnings, and patience - found primarily in layered, cumulative environments such as Forests, Mountains, and Fields
 
 ### Iteration
+
 The force of **Iteration** represents **creation** imposed on the world. Forests, Glaciers, Mountains, and Dense Earth are all agents of fabrication in the world – depositing iterative structures into the world over countless aeons. Fabrication is dense, patient, cumulative and much like the stone that defines it, _imposes itself on the world around it_.
 
-Prima in [[Stratic Biomes|Enviroments with heavy Iteration]] is stained Blue – creating what’s called **Stratic** **Prisma****.
+Prima in [[Stratic Biomes|Enviroments with heavy Iteration]] is stained Blue – creating what’s called **Stratic** **Prisma**\*\*.
 
 Stratic Prisma is very dense, and layers itself onto the environment around it – resting atop physical matter.

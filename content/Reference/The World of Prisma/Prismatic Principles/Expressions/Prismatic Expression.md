@@ -1,16 +1,16 @@
 A Prisma's Expression is its most basic shape, color, and properties. Prisma's expression varies depending on the nature of the [[Prismatic Stain]] applied.
 
 ## What is Prismatic Expression?
-**Prismatic Expression serves to differentiate Prisma into categories based on color, shape, and physical properties.** Not all Expressions are equal in scope or origin, however — they are organized into *orders* that reflect the magnitude of the force that shaped them.
+
+**Prismatic Expression serves to differentiate Prisma into categories based on color, shape, and physical properties.** Not all Expressions are equal in scope or origin, however — they are organized into _orders_ that reflect the magnitude of the force that shaped them.
 
 ## Lower-Order Expression
-The World's most fundamental and timeless processes - those of *Change*, *Creation*, and *Destruction* - all serve to Stain Prisma with an Expression that is similarly distinct and fundamental, known as a **Lower Order** Expression. These Lower Order Expressions each have use-cases and properties that directly mirror the corresponding force that stained them, and are as follows:
+
+The World's most fundamental and timeless processes - those of _Change_, _Creation_, and _Destruction_ - all serve to Stain Prisma with an Expression that is similarly distinct and fundamental, known as a **Lower Order** Expression. These Lower Order Expressions each have use-cases and properties that directly mirror the corresponding force that stained them, and are as follows:
 
 ![[Morphic]]
 
-
 ![[Stratic]]
-
 
 ![[Entropic]]
 
@@ -18,7 +18,7 @@ The World's most fundamental and timeless processes - those of *Change*, *Creati
 
 Just as no Prisma is truly stained with a single color, so too can trace amounts of Decay and Iteration be found in even the most Morphic of seas; the yellow environment with its yellow Prisma simply indicates **Flow** as the dominant force – and thus, dominant Expression.
 
-Environments where *two forces* act in roughly equal measure, however, produce something neither force creates alone - such as a seaside volcano representing *simultaneous* Decay and Flow. In such a region, whose Prisma has a roughly equivalent Red and Yellow Expression, the Prisma would take on a visible Orange color – representing **Fervor** as *intersecting forces of Change and Destruction.*
+Environments where _two forces_ act in roughly equal measure, however, produce something neither force creates alone - such as a seaside volcano representing _simultaneous_ Decay and Flow. In such a region, whose Prisma has a roughly equivalent Red and Yellow Expression, the Prisma would take on a visible Orange color – representing **Fervor** as _intersecting forces of Change and Destruction._
 
 Where Lower Order Expressions reflect a single dominant force, these blended Expressions occupy a higher tier of complexity — rarer in nature, and richer in potential. They are known as **Higher Order**, or Composite Expressions, and are as follows:
 

@@ -1,5 +1,5 @@
-
 ### What are Tiers of Mastery?
+
 **Most Channelers never leave Novice.**
 
 This is not a tragedy. A Novice Channeler is capable of deeds that would seem impossible to someone who has never touched Prisma at all – likely going on adventures and learning much about themselves in the process. A Novice Channeler can be a hero of their town, or an Artificer with a very profitable workshop – leading a content life with a very useful and rewarding skillset.
