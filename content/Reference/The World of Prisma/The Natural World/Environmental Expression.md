@@ -4,13 +4,7 @@ Every Biome in the Prismatic Realms has its own _Environmental Expression_ - des
 
 **Lower Order Environments** are regions marked by a clear, dominant force of [[Morphic|Flow]], [[Stratic|Iteration]], or [[Entropic|Decay]] where the majority of the local Prisma has a corresponding [[Prismatic Expression#Lower-Order Expression|Lower Order Expression]]
 
-These are as follows:
-
-![[Morphic Biomes]]
-
-![[Stratic Biomes]]
-
-![[Entropic Biomes]]
+![[Biome Table]]
 
 ---
 
