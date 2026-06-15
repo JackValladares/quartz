@@ -23,8 +23,9 @@ Prisma is energy given form: [[Prima]], raw and cosmic, stained by the world it 
 
 
 ## Key Terminology
-- [[Prisma]] — the core concept of Prisma and how it forms
-- [[Prismatic Expression]] — how Prisma's nature is categorized and expressed
+- [[Prisma]] - The core concept of Prisma and how it forms
+- [[Prismatic Expression]] - How Prisma's nature is categorized and expressed
+- [[Prismatic Inflection]] -How Prisma's Expression is shaped by culture and bias
 
 ## Notable Diagrams
 
