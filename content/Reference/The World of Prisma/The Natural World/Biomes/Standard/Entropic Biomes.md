@@ -19,7 +19,7 @@ Swamps<br/>
 Wildfires<br/>
 Poisons<br/>
 Extreme Acids and Bases<br/>
-Heavy deposits of [[Animite#Cinderstone]]<br/>
+Heavy deposits of [[Animite#Cinderstone|Cinderstone]]<br/>
 
 
 Entropic Biomes - much like the signature Red Prisma - serve to pierce, corrode, and break down anything that enters them.

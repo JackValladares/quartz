@@ -13,6 +13,7 @@ These are as follows:
 
 ![[Entropic Biomes]]
 
+---
 ### Prismatic Wilds
 Though most Higher-Order environments exist along the borders of Lower-Order Expressions as composites – such as a **Taiga** between a **Forest** and a **Tundra** – particularly strong overlaps over aeons of time create particularly mystical and dangerous environments with Higher-Order Prisma greater than the sum of its two parts.
 
