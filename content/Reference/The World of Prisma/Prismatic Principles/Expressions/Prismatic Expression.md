@@ -36,9 +36,6 @@ Higher-Order Expressions can also be the result of **Prismatic Whiplash**, repre
 
 The most extreme example of this tends to result from the intervention of humans and other sentient beings – where a **Stratic** kingdom might realize that importing large amounts of laborers attuned to **Surging** Prisma alongside huge vats of bright supercharges their production. Orange Prisma here could pollute the waterways and mutate local wildlife as towering smokestacks pump its residue into the region.
 
-### Prismatic Expression Diagram
 This diagram is a common one across the Prismatic Realm, and denotes the relationships between Higher and Lower Order Prismatic Expressions at a glance.
 
-
-
-![[Expression Diagram.png]]
+![[Expression Wheels#Basic Prismatic Expression Diagram]]

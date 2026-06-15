@@ -1,3 +1,18 @@
+---
+Expression: Stratic
+Color: Blue
+Biomes: |2-
+   - Forests
+    - Plains
+    - Mountains
+    - Glaciers
+Climate: |2-
+    - Temperate
+    - Still
+    - Ongoing deposits of Earth and Stone
+    - Heavy deposits of Loamstone
+---
+
 <div class="prisma-header prisma-stratic">
   <div class="prisma-banner">
     <img src="/images/stratic-rune.png" alt="Stratic Rune" class="prisma-banner-icon"/>
