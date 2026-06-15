@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-15T15:13:28.846-04:00
-modified: 2026-06-15T14:49:07.240-04:00
+modified: 2026-06-15T15:37:09.278-04:00
 ---
 
 <div class="prisma-header prisma-entropic">
@@ -24,3 +24,25 @@ The force of **Decay** represents **destruction** made honest. Death, decay and 
 Prima in [[Entropic Biomes|Environments marked by ongoing decay]] is stained Red – creating what’s called **Entropic** **Prisma**.
 
 Entropic Prisma is very potent, biting, and pierces the environment around it – sinking through physical matter.
+
+### Commonly Entropic Biomes
+
+Entropic Biomes are largely considered to be _extreme_ natural environments, where the weather, geography, flora, and fauna all serve to decompose and break down mind and matter alike. Entropic Biomes are environments where **Decay** is the dominant natural force - resulting in the large majority of the region's Prisma being [[Entropic]] in nature.
+
+<div style="width: 100%; display: flex; justify-content: center;">
+	<img src="images/Environments/entropic.png" width="300" />
+</div>
+
+**The commonly cited regions are as follows:**<br/>
+Badlands<br/>
+Deserts<br/>
+Tundras<br/>
+Swamps<br/>
+
+**The weather patterns and phenomena can also be a large insight as to the Entropic nature of a particular region, these being:**<br/>
+Wildfires<br/>
+Poisons<br/>
+Extreme Acids and Bases<br/>
+Heavy deposits of [[Animite#Cinderstone|Cinderstone]]<br/>
+
+Entropic Biomes - much like the signature Red Prisma - serve to pierce, corrode, and break down anything that enters them.
