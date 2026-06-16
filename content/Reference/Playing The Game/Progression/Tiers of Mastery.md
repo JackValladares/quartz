@@ -1,4 +1,9 @@
-![[Tiers Of Play.png]]
+
+<div style="width: 100%; display: flex; justify-content: center;">
+	<img src="images/tiers/tiers-of-play.png" width="300" />
+</div>
+
+
 ### What are Tiers of Mastery?
 
 **Most Channelers never leave Novice.**
