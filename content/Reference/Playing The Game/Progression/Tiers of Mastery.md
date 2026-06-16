@@ -33,3 +33,15 @@ This is not a hard-and-fast rule, of course, and the designation also serves as 
 Martial Abilities operate on a similar axis, but mundane weapons do not themselves carry a Tier Designation. Instead, Tiers are applied to _Proficiencies_ and _Techniques_. A Novice and a Virtuoso Barbarian, then, both likely able to wield the same Battleaxe and use it to rout foes with no issues. The Virtuoso Barbarian, however, has Virtuoso-level Proficiency with the weapon - and thanks to mastery of the self and their corresponding Prisma, swings it with a much greater deal of potency and consistency, cleaving it through multiple foes at a time and cutting off limbs in the process. As with spellcasting, one with particular talent for a specific weapon might achieve a higher tier’s abilities earlier, and a mage wielding a dagger as a sidearm might swing it with Novice-Level abilities despite being a Channeler of the Master Tier.
 
 What follows is a description of each Tier as recognized by the Guild — what they mean, what they demand, and what they promise to those who earn them.
+
+## The Tiers in Order
+
+![[Tier 1#Novice Tier]]
+
+![[Tier 2#**Journeyman Tier**]]
+
+![[Tier 3#Adept Tier]]
+
+![[Tier 4#Virtuoso Tier]]
+
+![[Tier 5#Paragon Tier]]
