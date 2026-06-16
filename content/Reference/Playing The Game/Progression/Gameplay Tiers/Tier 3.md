@@ -10,4 +10,4 @@ For most ambitious Channelers, Adept is where the journey ends — and it is no 
 
 The Adept Tier is where most ambitious Channelers terminate their journey, and those who stay at this level are considered to have had a robust, successful journey across their lives. The gap of skill between this tier and the next is far greater than those previous.
 
-**Adept-tier threats are urgent and threaten entire settlements or large pieces of infrastructure. These Channelers are working toward becoming a local legend or bolstering their already glowing reputation in the wider world.**
+**Adept-tier threats are urgent and threaten entire settlements or large pieces of infrastructure.** These Channelers are working toward becoming a local legend or bolstering their already glowing reputation in the wider world.
