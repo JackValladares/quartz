@@ -1,3 +1,4 @@
+![[Tiers Of Play.png]]
 ### What are Tiers of Mastery?
 
 **Most Channelers never leave Novice.**

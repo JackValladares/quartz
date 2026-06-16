@@ -1,3 +1,4 @@
+![[Prisma Decorator.png]]
 **[[Prima]] given form is called Prisma**. The word itself is a useful shorthand for this concept – where a type of Prisma represents Prima of a particular nature.
 
 Prisma's nature is obtained through a process called a [[Prismatic Stain]].
