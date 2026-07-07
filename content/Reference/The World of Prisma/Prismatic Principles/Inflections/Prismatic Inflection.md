@@ -11,8 +11,6 @@ This second method of staining occurs when sentient, opinionated, biased beings 
 A society of people who worship the sun with a deep, collective hatred of creatures of the night would grant the nearby Prisma an inflection mirroring this very concept. Though Red Prisma in this region would still be fundamentally [[Entropic]] and recognizable as such, this concept of _Dawn_ as something holy and sacred would give it a saturated tint and properties resembling light itself. Furthermore, the local [[Animite#Cinderstone|Cinderstone]] would burn vampires and werewolves as a result of these ideas.
 
 In this example, the Prisma with the
-![[Dawn Inflection.png]]
-
 
 
 ![[Dawn Expression Wheel.png]]
