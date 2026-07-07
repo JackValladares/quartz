@@ -6,3 +6,7 @@ Just as one would call this same principle applied to ores *metallurgy* and life
 
 
 ![[Prismatic Channeling#What is Channeling?]]
+
+
+
+![[Prismatic Inflection#What is Prismatic Inflection?]]
