@@ -7,6 +7,7 @@
     <strong>Sunlight</strong> Restoration, Holy Judgement, Inspiration
   </div>
 </div>
+
 ### Dawn as a Concept
 The Concept of *Dawn* represents a deep reverence for the sun and its warmth. Those who represent Dawn are bright and spirited - wearing their heart on their sleeves,
 
