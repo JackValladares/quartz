@@ -10,3 +10,6 @@ Just as one would call this same principle applied to ores *metallurgy* and life
 
 
 ![[Prismatic Inflection#What is Prismatic Inflection?]]
+Take the Inflection of *Dawn*, for example:
+
+![[Dawn]]
