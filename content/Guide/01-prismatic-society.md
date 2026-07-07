@@ -13,6 +13,6 @@ Just as one would call this same principle applied to ores *metallurgy* and life
 
 ![[Prismatic Inflection#One Expression, Many Interpretations]]
 
-Take the Inflection of *Dawn*, for example:
+Let's take a deeper dive into the hypothetical Holy Knight's psyche and look at this idea made formal in the Inflection of *Dawn* - 
 
 ![[Dawn]]
